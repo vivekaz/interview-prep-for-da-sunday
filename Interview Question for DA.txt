@@ -13,3 +13,12 @@ Ans: To remove duplicate entries from multiple tables, you would typically:
 
 IQ3: Diffence between Foreign Key and Primary Key ?
 ANS: A Primary Key is a unique identifier for records within a table, ensuring each row has a distinct, non-null value. A table can have only one primary key. In contrast, a Foreign Key is a field in one table that links to the primary key in another table, establishing a relationship between them. While a primary key guarantees uniqueness and non-null values, a foreign key can contain nulls and doesn't require uniqueness. Foreign keys ensure referential integrity, meaning the values must either be null or match an existing primary key value from the related table.
+
+IQ4: What is normalization ?
+ANS: Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity.
+     The most common normal forms are:
+
+     First Normal Form (1NF): Ensures each column contains atomic values and each record is unique.
+     Second Normal Form (2NF): Builds on 1NF, removing partial dependencies (when non-key attributes depend on part of a composite key).
+     Third Normal Form (3NF): Removes transitive dependencies (when non-key attributes depend on other non-key attributes).
+	
