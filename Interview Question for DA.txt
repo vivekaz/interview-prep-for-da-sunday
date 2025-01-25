@@ -1,0 +1,8 @@
+IQ: Tell me About yourself ?
+Ans: "My name is Vivek, and I’m currently working as a Software Programmer at Ammet Group, where I focus on leveraging my expertise in SQL, Power BI, Git & GitHub, Azure Cloud, and ETL processes. In my current role, I work with large datasets, writing complex SQL queries to manage, analyze, and extract meaningful insights. I also collaborate with my team using Git and GitHub to ensure smooth version control and efficient project management.
+
+At Ammet Group, I’ve been responsible for developing interactive dashboards and reports using Power BI, helping the business make data-driven decisions. I also have hands-on experience with Azure Cloud, where I manage cloud infrastructure to ensure our solutions are scalable, secure, and cost-effective.
+
+Additionally, I have worked on various ETL processes, where I handle the extraction, transformation, and loading of data from different sources, ensuring it is clean and ready for analysis. I’m passionate about using technology to streamline processes and solve problems, and I’m always looking for opportunities to learn and grow in the ever-evolving field of data management and software development."
+
+IQ2: How do you remove duplicate entry from multiple table using SQL ?
